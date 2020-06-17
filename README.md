@@ -1,4 +1,4 @@
-# Pomodoro-Timer
-Simple Pomodoro timer that runs in the background
+# Interval Timer
+Simple interval timer that allows the user to adjust the work/break times.
+Run pyw file to run file in background.
 
-Run pyw file to run in background
